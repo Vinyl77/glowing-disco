@@ -12,3 +12,4 @@ In this course, you will learn how to use GitHub successfully
 - Hopefully this works too.
 and this too.
 really funky
+more funkiness
