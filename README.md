@@ -10,3 +10,4 @@ In this course, you will learn how to use GitHub successfully
 - Create and work with issues
 - Create a wiki and a GitHub Page
 - Hopefully this works too.
+and this too.
