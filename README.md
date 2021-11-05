@@ -11,3 +11,4 @@ In this course, you will learn how to use GitHub successfully
 - Create a wiki and a GitHub Page
 - Hopefully this works too.
 and this too.
+really funky
